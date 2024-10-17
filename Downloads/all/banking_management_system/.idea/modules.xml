@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/banking-account-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/banking-account-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/banking_management_system.iml" filepath="$PROJECT_DIR$/.idea/banking_management_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.ojt.klb.banking-account-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.ojt.klb.banking-account-service.main.iml" />
+    </modules>
+  </component>
+</project>

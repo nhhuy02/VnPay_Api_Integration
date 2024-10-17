@@ -1,0 +1,41 @@
+server:
+  port: 8090
+spring:
+  data:
+    mongodb:
+      username: root
+      password: password
+      host: localhost
+      port: 27017
+      database: customer
+      authentication-database: admin
+  mvc:
+    servlet:
+      encoding:
+        charset: UTF-8
+        enabled: true
+        force: true
+  redis:
+    host: localhost
+    port: 6379
+  cache:
+    type: redis
+    redis:
+      time-to-live: 600000
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+  api-docs:
+    path: /api-docs
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: prometheus
+logging:
+  file:
+    name: logs/customer_log.log
+  level:
+    org.springframework.web.filter.CommonsRequestLoggingFilter: DEBUG

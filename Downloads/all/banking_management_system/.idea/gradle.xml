@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/microservices-core-banking" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/microservices-core-banking" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/microservices-core-banking/banking-account-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/microservices-core-banking/banking-account-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/microservices-core-banking/banking-api-gateway-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/microservices-core-banking/banking-api-gateway-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/microservices-core-banking/banking-config-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/microservices-core-banking/banking-config-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/microservices-core-banking/banking-customer-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/microservices-core-banking/banking-customer-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/microservices-core-banking/banking-discovery-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/microservices-core-banking/banking-discovery-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/microservices-core-banking/banking-notification-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/microservices-core-banking/banking-notification-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/microservices-core-banking/banking-report-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/microservices-core-banking/banking-report-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/microservices-core-banking/banking-transaction-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/microservices-core-banking/banking-transaction-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
